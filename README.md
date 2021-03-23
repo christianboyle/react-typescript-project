@@ -1,5 +1,5 @@
 # react-typescript-starter
-Minimal React/TypeScript starter created from [CRA-Minimal](https://github.com/ericandrewlewis/create-react-app-minimal/), using [Parcel](https://github.com/parcel-bundler/parcel) for bundling
+Minimal React/TypeScript starter for quick experimentation 
 
 # get started
 ```
