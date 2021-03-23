@@ -1,5 +1,5 @@
 # react-typescript-starter
-Minimal React/TypeScript starter for quick experimentation 
+minimal react/ts/parcel starter for quick experimentation
 
 # get started
 ```
