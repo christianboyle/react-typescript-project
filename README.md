@@ -2,5 +2,7 @@
 Minimal React/TypeScript starter created from CRA-Minimal, using Parcel for bundling
 
 # get started
-`npm i`
-`npm run dev`
+`
+npm i
+npm run dev
+`
